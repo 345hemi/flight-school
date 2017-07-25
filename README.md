@@ -1,5 +1,5 @@
 # flight-school
-learning to fly
+Still learning to fly
 
 ## Reporting Issues and Requesting Features
 
